@@ -1,4 +1,4 @@
-# cockatoos-app
+# cockatoos-app  [![Linter](https://github.com/cockatoos/cockatoos-app/actions/workflows/linter.yml/badge.svg)](https://github.com/cockatoos/cockatoos-app/actions/workflows/linter.yml)  [![Deploy](https://github.com/cockatoos/cockatoos-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/cockatoos/cockatoos-app/actions/workflows/deploy.yml)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
