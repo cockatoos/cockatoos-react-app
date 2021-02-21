@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cockatoos-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cockatoos-app/static/js/main.8ebbdab2.chunk.js",
+    "main.js.map": "/cockatoos-app/static/js/main.8ebbdab2.chunk.js.map",
+    "runtime-main.js": "/cockatoos-app/static/js/runtime-main.f4d6c90f.js",
+    "runtime-main.js.map": "/cockatoos-app/static/js/runtime-main.f4d6c90f.js.map",
+    "static/js/2.eeb2a1c2.chunk.js": "/cockatoos-app/static/js/2.eeb2a1c2.chunk.js",
+    "static/js/2.eeb2a1c2.chunk.js.map": "/cockatoos-app/static/js/2.eeb2a1c2.chunk.js.map",
+    "static/js/3.4584ca90.chunk.js": "/cockatoos-app/static/js/3.4584ca90.chunk.js",
+    "static/js/3.4584ca90.chunk.js.map": "/cockatoos-app/static/js/3.4584ca90.chunk.js.map",
+    "index.html": "/cockatoos-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cockatoos-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.eeb2a1c2.chunk.js.LICENSE.txt": "/cockatoos-app/static/js/2.eeb2a1c2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cockatoos-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4d6c90f.js",
+    "static/js/2.eeb2a1c2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8ebbdab2.chunk.js"
+  ]
+}
