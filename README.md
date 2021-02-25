@@ -1,4 +1,8 @@
-# cockatoos-app  [![Linter](https://github.com/cockatoos/cockatoos-app/actions/workflows/linter.yml/badge.svg)](https://github.com/cockatoos/cockatoos-app/actions/workflows/linter.yml)  [![Deploy](https://github.com/cockatoos/cockatoos-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/cockatoos/cockatoos-app/actions/workflows/deploy.yml)
+# cockatoos-react-app  [![Linter](https://github.com/cockatoos/cockatoos-react-app/actions/workflows/linter.yml/badge.svg)](https://github.com/cockatoos/cockatoos-app/actions/workflows/linter.yml)  [![Deploy](https://github.com/cockatoos/cockatoos-react-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/cockatoos/cockatoos-app/actions/workflows/deploy.yml)
+
+---
+> ### DEPRECATED: switching to Angular - see https://github.com/cockatoos/cockatoos-app
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
